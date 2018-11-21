@@ -6,3 +6,5 @@ Project: Spoon-Knife
 from numpy import genfromtxt
 
 a = genfromtxt()
+
+print('a')
